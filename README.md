@@ -14,3 +14,18 @@ Non-Functional Requirements:
 - Availability.
 - Scalability.
 - Low latency.
+
+15 June 2025 Question:
+Design a Like Counter System similar to Twitter's post likes or YouTube's video likes. Users should be able to like and unlike posts/content, with real-time counter updates and proper state management.
+Requirements:
+Functional Requirements:
+
+- Like/Unlike Operations
+- Counter Display
+- Data Consistency
+
+Non-Functional Requirements:
+- Scalability
+- Performance
+- Availability
+- Consistency
