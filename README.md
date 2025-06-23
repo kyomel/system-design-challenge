@@ -34,7 +34,7 @@ Design a Like Counter System similar to Twitter's post likes or YouTube's video 
 
 **Live Discussion:**
 
-TBD
+[Link](https://www.youtube.com/live/gBrOn1bejuM?si=b05dgTIzKSnNp-i4)
 
 **Question:**
 
