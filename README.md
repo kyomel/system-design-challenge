@@ -9,7 +9,7 @@
 
 **Live Discussion:**
 
-https://www.youtube.com/watch?v=zSZP31aIFPA
+[Link](https://www.youtube.com/watch?v=zSZP31aIFPA)
 
 **Question:**
 
