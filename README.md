@@ -5,6 +5,35 @@
 
 ---
 
+**24 June 2025**
+
+**Live Discussion:**
+
+TBA
+
+**Question:**
+
+Design a service similar to TinyURL for shortening the uniform resource locator(URL).
+
+**Requirements:**
+
+**Functional Requirements:**
+- Short URL generation
+- Redirection
+- Custom short links
+- Deletion
+- Update
+- Expiry time
+
+**Non-Functional Requirements:**
+- Scalability
+- Latency
+- Availability
+- Readability
+- Unpredictability
+
+------
+
 **15 June 2025**
 
 **Live Discussion:**
