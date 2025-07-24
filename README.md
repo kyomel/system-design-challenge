@@ -5,11 +5,38 @@
 
 ---
 
-**24 June 2025**
+**24 July 2025**
 
 **Live Discussion:**
 
 TBA
+
+**Question:**
+
+Design a service similar to Quora.
+
+**Requirements:**
+
+**Functional Requirements:**
+- Questions and answers
+- Upvote/downvote and comment
+- Search
+- Recommendation system
+- Ranking answers
+
+**Non-Functional Requirements:**
+- Scalability
+- Consistency
+- Availability
+- Performance
+
+------
+
+**24 June 2025**
+
+**Live Discussion:**
+
+[Link](https://www.youtube.com/live/VkUsfNzyOW0?si=pgmAl2Zj9vDcpeTl)
 
 **Question:**
 
