@@ -2,6 +2,8 @@
 > Welcome!
 >
 > This is system design use case problem  for Software Engineering Growth Indonesia - Computer Science subgroup.
+>
+> Link Working Exalidraw: [Link](https://drive.google.com/drive/folders/1Eqf8z1sTqiKHDKtkdWWT8IAzguSQw6Dk?usp=sharing)
 
 ---
 
