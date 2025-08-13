@@ -6,12 +6,33 @@
 > Link Working Exalidraw: [Link](https://drive.google.com/drive/folders/1Eqf8z1sTqiKHDKtkdWWT8IAzguSQw6Dk?usp=sharing)
 
 ---
+**13 August 2025**
+
+**Live Discussion:**
+
+TBA
+
+**Question:**
+
+Design a service sequencer(random unique ID).
+
+**Requirements:**
+
+**Functional Requirements:**
+- Uniqueness
+- 64-bit numeric ID
+
+**Non-Functional Requirements:**
+- Scalability
+- Availability
+
+------
 
 **24 July 2025**
 
 **Live Discussion:**
 
-TBA
+[Link](https://www.youtube.com/live/UXDWJhEuZHI?si=3WZOfDoBZoyZNWU7)
 
 **Question:**
 
