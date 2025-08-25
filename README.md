@@ -6,11 +6,39 @@
 > Link Working Exalidraw: [Link](https://drive.google.com/drive/folders/1Eqf8z1sTqiKHDKtkdWWT8IAzguSQw6Dk?usp=sharing)
 
 ---
-**13 August 2025**
+
+**25 August 2025**
 
 **Live Discussion:**
 
 TBA
+
+**Question:**
+
+Design a app calendar.
+
+**Requirements:**
+
+**Functional Requirements:**
+- Event Management
+- Calendar Views
+- Reminder & Notifications
+- Recurring Events
+- Multi-Device Synce
+
+**Non-Functional Requirements:**
+- Perfomance
+- Reliability
+- Scalability
+- Usability
+
+------
+
+**13 August 2025**
+
+**Live Discussion:**
+
+[Link](https://www.youtube.com/live/bdIX7aODfGw?si=P6FGMtv4Oc4do_9z)
 
 **Question:**
 
